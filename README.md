@@ -1,8 +1,3 @@
-<div> 
-
-   <img align="right" width="165" height="165" src="https://cdn.discordapp.com/attachments/1239610218145648734/1240343795481182218/6b5a77594b6e251e1e861be9dc762c8e.gif?ex=664637ad&is=6644e62d&hm=a04f548af72fcdeeaeab21a21491d37618df1dd55a005d3bc4fefb9bdc665212&">
-      
-</div>
 
 ### Português:
 
